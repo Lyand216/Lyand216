@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lyand216
-- 👀 I’m interested in game, coding, full stack developer
+- 👀 I’m interested in game, coding, full stack developer and maybe about ethical hacking
 - 🌱 I’m currently learning python
 - 📫 How to reach me, you can look at link my social media in my profile
 
